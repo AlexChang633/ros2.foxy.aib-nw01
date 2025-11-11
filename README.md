@@ -53,7 +53,7 @@ source /opt/ros/foxy/setup.bash
 
 ## Testing
 ```bash
-# In on terminal
+# In one terminal
 source /opt/ros/foxy/setup.bash
 ros2 run demo_nodes_cpp talker
 
