@@ -15,7 +15,7 @@ export LANG=en_US.UTF-8
 locale  
 ```
 
-## Setup Sources
+## Setup Sources
 ```bash
 sudo apt install software-properties-common
 sudo add-apt-repository universe
