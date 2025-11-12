@@ -69,4 +69,4 @@ echo "source /opt/ros/foxy/setup.bash" >> ~/.bashrc
 ```
 
 # Reference.
-[Ubuntu (Debian) — ROS 2 Documentation: Foxy documentation](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html "Ubuntu (Debian) — ROS 2 Documentation: Foxy documentation")
+[Ubuntu (Debian) — ROS 2 Documentation: Foxy documentation](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
